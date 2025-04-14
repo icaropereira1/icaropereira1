@@ -42,7 +42,7 @@ Sou estudante de **Engenharia de Computação na UFG**, apaixonado por **program
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icaropereira1&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats">
-
+</p>
 
 ---
 
@@ -60,8 +60,9 @@ Sou estudante de **Engenharia de Computação na UFG**, apaixonado por **program
   </a>
 </p>
 
----![Snake animation](https://github.com/icaropereira1/commit-snake/blob/output/github-contribution-grid-snake.gif)
+---
 
+![Snake animation](https://github.com/icaropereira1/commit-snake/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:6e00ff&height=120&section=footer"/>
