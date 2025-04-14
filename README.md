@@ -1,71 +1,49 @@
-<!-- Perfil README - icaropereira1 -->
-
-<h1 align="center">Olá! Eu sou o Ícaro Pereira 👋</h1>
-
-<p align="center">
-  <a href="https://github.com/icaropereira1">
-    <img src="https://img.shields.io/github/followers/icaropereira1?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://www.linkedin.com/in/icaropereira1">
-    <img src="https://img.shields.io/badge/LinkedIn-icaropereira1-blue?logo=linkedin&style=flat" alt="LinkedIn">
-  </a>
-</p>
-
----
+# 👋 Olá, eu sou o Ícaro Pereira!
 
 ## 💻 Sobre mim
-
-Sou um estudante de **Tecnologia da Informação**, apaixonado por resolver problemas com código, criar soluções inteligentes e explorar o mundo da **Inteligência Artificial** 🤖.
-
-Gosto de trabalhar em equipe, já participei de eventos acadêmicos como monitor e desenvolvi projetos práticos voltados para o dia a dia, como sistemas de restaurante e estacionamento.
+Sou estudante de **Engenharia de Computação na UFG**, apaixonado por **programação**, **desenvolvimento de sistemas** e **Inteligência Artificial**. Tenho experiência em projetos acadêmicos, como sistemas de cardápio online e controle de estacionamento, além de ter atuado como monitor em congressos acadêmicos, apresentando e explicando os projetos desenvolvidos pela minha equipe.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## 🚀 Habilidades e Tecnologias
+- **Linguagens de Programação**: `C`, `Java`, `Python`
+- **Ferramentas & Frameworks**: `Git`, `Visual Studio`, `Eclipse`, `Jupyter`
+- **Desenvolvimento**: Sistema de Cardápio, Sistema de Estacionamento, Demonstrações Acadêmicas
+- **Áreas de Interesse**: Inteligência Artificial, Algoritmos, Desenvolvimento Web
 
 ---
 
-## 📂 Meus Projetos
+## 📚 Projetos
 
-🔹 **Sistema de Cardápio Online**  
-🔹 **Sistema de Estacionamento**  
-🔹 **Demonstrações Acadêmicas como Monitor**  
+### 🍽️ **[Sistema de Cardápio Online](https://github.com/icaropereira1/cardapio-online)**  
+Uma plataforma simples para pedidos de comida online, desenvolvida para facilitar o pedido em restaurantes.
 
-> *Projetos desenvolvidos em equipe com foco em usabilidade, lógica de programação e organização.*
+### 🅿️ **[Sistema de Estacionamento](https://github.com/icaropereira1/sistema-estacionamento)**  
+Controle de entrada, saída e cobrança de veículos em um estacionamento, com base em um sistema de gestão eficiente.
 
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icaropereira1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaropereira1&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+### 📊 **Demonstrações Acadêmicas**  
+Participei como monitor de um congresso, onde apresentei projetos desenvolvidos pela minha equipe, com ênfase em soluções inovadoras para problemas cotidianos.
 
 ---
 
-## 🌱 Estou estudando
-
-- Algoritmos e Estrutura de Dados (ex: QuickSort)
-- Princípios de Inteligência Artificial
-- Boas práticas em projetos de software
-
----
-
-## 📫 Contato
-
-- ✉️ Email: *seu-email-aqui@email.com*
-- 💼 LinkedIn: [linkedin.com/in/icaropereira1](https://www.linkedin.com/in/icaropereira1)
-- 💻 GitHub: [github.com/icaropereira1](https://github.com/icaropereira1)
+## 🌱 Atualmente Estudando
+- **Estruturas de Dados e Algoritmos** (ex: QuickSort)
+- **Inteligência Artificial** e **Machine Learning**
+- **Boas práticas de desenvolvimento em equipe**
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:6e00ff&height=120&section=footer"/>
-</p>
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=icaropereira1&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## 📫 Como me encontrar
+- **Email**: [xicaroestudos@gmail.com](mailto:xicaroestudos@gmail.com)
+- **LinkedIn**: [linkedin.com/in/icaropereira1](https://www.linkedin.com/in/icaropereira1)
+- **GitHub**: [github.com/icaropereira1](https://github.com/icaropereira1)
+
+---
+
+⭐ **Obrigado por visitar meu perfil!** 🚀
