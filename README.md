@@ -60,8 +60,8 @@ Sou estudante de **Engenharia de Computação na UFG**, apaixonado por **program
   </a>
 </p>
 
----
-![Snake animation](https://github.com/icaropereira1/commit-snake/blob/output/github-contribution-grid-snake.svg)
+---![Snake animation](https://github.com/icaropereira1/commit-snake/blob/output/github-contribution-grid-snake.gif)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:6e00ff&height=120&section=footer"/>
