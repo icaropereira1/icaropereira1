@@ -32,7 +32,7 @@ Sou estudante de **Engenharia de Computação na UFG**, apaixonado por **program
 
 ## 🌱 Atualmente Estudando
 
-- Algoritmos e Estruturas de Dados (ex: QuickSort)
+- Algoritmos e Estruturas de Dados 
 - Fundamentos de Inteligência Artificial
 - Melhoria de lógica e boas práticas de programação
 
@@ -42,8 +42,7 @@ Sou estudante de **Engenharia de Computação na UFG**, apaixonado por **program
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icaropereira1&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaropereira1&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+
 
 ---
 
