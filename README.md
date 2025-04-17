@@ -63,10 +63,10 @@ Sou estudante de **Engenharia de Computação na UFG**, apaixonado por **program
 ---
 #
 
-<picture>
+
 ![snake gif](https://github.com/icaropereira1/icaropereira1/blob/output/github-snake-dark.svg)
 
-</picture>
+
 
 
 <p align="center">
