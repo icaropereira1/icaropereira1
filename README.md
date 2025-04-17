@@ -31,9 +31,8 @@ Sou estudante de **Engenharia de Computação na UFG**, apaixonado por **program
 ---
 
 ## 🌱 Atualmente Estudando
-
+- Python
 - Algoritmos e Estruturas de Dados 
-- Fundamentos de Inteligência Artificial
 - Melhoria de lógica e boas práticas de programação
 
 ---
