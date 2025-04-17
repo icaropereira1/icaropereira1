@@ -64,9 +64,8 @@ Sou estudante de **Engenharia de Computação na UFG**, apaixonado por **program
 #
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icaropereira1/snake/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icaropereira1/snake/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/icaropereira1/snake/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/icaropereira1/icaropereira1/blob/output/github-snake-dark.svg)
+
 </picture>
 
 
