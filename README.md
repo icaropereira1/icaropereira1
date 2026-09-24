@@ -110,14 +110,6 @@ Sou estudante de **Engenharia de Computação na UFG**, com base em **Análise d
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icaropereira1&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
----
-
 ## 📫 Onde me encontrar
 
 <p align="left">
@@ -131,8 +123,3 @@ Sou estudante de **Engenharia de Computação na UFG**, com base em **Análise d
     <img src="https://img.shields.io/badge/GitHub-icaropereira1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
-#
-
-![snake gif](https://github.com/icaropereira1/icaropereira1/blob/output/github-snake-dark.svg)
